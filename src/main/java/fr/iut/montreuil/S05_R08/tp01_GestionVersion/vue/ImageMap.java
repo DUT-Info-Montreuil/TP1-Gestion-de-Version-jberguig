@@ -46,10 +46,10 @@ public class ImageMap {
 	        map.put("cloud",new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/pnj/cloud.png").toURI().toURL().toString()));
 	        map.put("épouvantail",new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/pnj/epouvantail.png").toURI().toURL().toString()));
 	
-	        map.put("playerDOWN", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/playerDOWN.png").toURI().toURL().toString()));
-	        map.put("playerUP", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/playerUP.png").toURI().toURL().toString()));
-	        map.put("playerRIGHT", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/playerRIGHT.png").toURI().toURL().toString()));
-	        map.put("playerLEFT", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/playerLEFT.png").toURI().toURL().toString()));
+	        map.put("playerDOWN", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/ramboDOWN.png").toURI().toURL().toString()));
+	        map.put("playerUP", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/ramboUP.png").toURI().toURL().toString()));
+	        map.put("playerRIGHT", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/ramboRIGHT.png").toURI().toURL().toString()));
+	        map.put("playerLEFT", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/player/ramboLEFT.png").toURI().toURL().toString()));
 	
 	        map.put("SourceBois", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/ressourcesImg/bois.png").toURI().toURL().toString()));
 	        map.put("SourceTresor", new Image(new File("src/main/java/fr/iut/montreuil/S05_R08/tp01_GestionVersion/ressources/ressourcesImg/coffre.png").toURI().toURL().toString()));

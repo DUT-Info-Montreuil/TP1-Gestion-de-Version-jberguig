@@ -37,7 +37,7 @@
                   <TilePane fx:id="tilePaneDeco" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="320.0" prefWidth="320.0" />
                   <ImageView fx:id="player" fitHeight="150.0" fitWidth="16.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../ressources/player.png" />
+                        <Image url="@../ressources/rambo.png" />
                      </image>
                   </ImageView>
                </children>
@@ -1085,7 +1085,7 @@
                <children>
                   <ImageView fitHeight="297.0" fitWidth="186.0" layoutX="11.0" layoutY="62.0" pickOnBounds="true">
                      <image>
-                        <Image url="@../ressources/HUD/menu/playerStats.png" />
+                        <Image url="@../ressources/HUD/menu/ramboStats.png" />
                      </image>
                   </ImageView>
                   <VBox layoutX="128.0" layoutY="136.0" prefHeight="69.0" prefWidth="55.0">
@@ -1180,7 +1180,7 @@
                   </Button>
                   <ImageView fitHeight="30.0" fitWidth="32.0" layoutX="413.0" layoutY="333.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../ressources/player.png" />
+                        <Image url="@../ressources/rambo.png" />
                      </image>
                   </ImageView>
                   <ImageView fitHeight="40.0" fitWidth="44.0" layoutX="229.0" layoutY="332.0" pickOnBounds="true" preserveRatio="true">
